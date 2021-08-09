@@ -1,0 +1,6 @@
+table {width: 100%; border-collapse: collapse;}
+thead td {text-align: center; font-weight: bold;}
+td {border: 2px solid black;padding: 5px;}
+h1 {color: darkcyan;}
+h2 {color: darkcyan;}
+body {font-family: 'Times New Roman', Times, serif; font-size: larger;background-color: lightgray;}
